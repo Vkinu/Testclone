@@ -1,9 +1,0 @@
-I:\NoSQL\负载均衡测试\bin\NginxDemo.dll
-I:\NoSQL\负载均衡测试\bin\NginxDemo.pdb
-I:\NoSQL\负载均衡测试\obj\Release\NginxDemo.dll
-I:\NoSQL\负载均衡测试\obj\Release\NginxDemo.pdb
-C:\Users\Administrator\Desktop\nginx\bin\NginxDemo.dll.config
-C:\Users\Administrator\Desktop\nginx\bin\NginxDemo.dll
-C:\Users\Administrator\Desktop\nginx\bin\NginxDemo.pdb
-C:\Users\Administrator\Desktop\nginx\obj\Release\NginxDemo.dll
-C:\Users\Administrator\Desktop\nginx\obj\Release\NginxDemo.pdb
