@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\nginx\bin\NginxDemo.dll.config
+C:\Users\Administrator\Desktop\nginx\bin\NginxDemo.dll
+C:\Users\Administrator\Desktop\nginx\bin\NginxDemo.pdb
+C:\Users\Administrator\Desktop\nginx\obj\Debug\负载均衡测试.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\nginx\obj\Debug\NginxDemo.dll
+C:\Users\Administrator\Desktop\nginx\obj\Debug\NginxDemo.pdb
